@@ -172,3 +172,13 @@ body {
     text-align: center;
     color: #fff;
 }
+.insights-section {
+    background-color: #F3F8FF;
+}
+
+.insight-card-fixed {
+    background: #FFFFFF;
+    width: 320px;
+    height: 534px;
+    border-radius: 48px;
+}
