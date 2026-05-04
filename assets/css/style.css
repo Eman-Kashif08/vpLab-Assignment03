@@ -132,3 +132,12 @@ body {
     display: flex;
     flex-direction: column;
 }
+.featured-label {
+    font-size: 1.2rem;
+    color: #02033B;
+}
+
+.featured-row {
+    max-width: 1248px;
+    margin: 0 auto;
+}
