@@ -37,3 +37,8 @@ body {
     padding: 15px 25px;
     border-radius: 50px;
 }
+/* TESTIMONIAL */
+.testimonials-section {
+    background: #FFC247;
+    padding: 60px 0;
+}
