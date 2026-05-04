@@ -85,3 +85,9 @@ body {
     padding: 50px;
     border-radius: 30px;
 }
+/* FOOTER */
+.footer-section {
+    background: #02033B;
+    color: white;
+    padding: 50px;
+}
