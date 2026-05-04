@@ -111,3 +111,9 @@ hero-section {
     position: relative;
     z-index: 5; 
 }
+/* FEATURES */
+.feature-main-card {
+    background: white;
+    padding: 50px;
+    border-radius: 30px;
+}
