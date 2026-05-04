@@ -76,3 +76,13 @@ hero-section {
     align-items: center;
     padding: 60px;
 }
+.testimonials-section {
+    background: #FFC247;
+    padding: 60px 0;
+}
+
+.testimonial-card {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+}
