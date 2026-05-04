@@ -79,3 +79,9 @@ body {
     border-radius: 20px;
 }
 
+/* FEATURES */
+.feature-main-card {
+    background: white;
+    padding: 50px;
+    border-radius: 30px;
+}
