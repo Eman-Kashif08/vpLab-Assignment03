@@ -89,3 +89,11 @@ hero-section {
 .certo-about-section {
     padding: 80px 0;
 }
+.certo-img-frame img {
+    display: block;
+    border-radius: 20px;
+    position: relative;
+    z-index: 2; /* Ensures the image stays on top */
+    width: 100%;
+    height: auto;
+}
