@@ -37,3 +37,20 @@ body {
     border-radius: 50px;
 }
 
+/* HERO */
+.hero-section {
+    display: flex;
+    min-height: 90vh;
+}
+
+.hero-left {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    padding: 60px;
+}
+
+.hero-right {
+    width: 50%;
+    position: relative;
+}
