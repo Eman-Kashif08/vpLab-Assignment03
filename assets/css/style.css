@@ -65,3 +65,14 @@ body {
     transform: translateY(-50%);
     width: 250px;
 }
+hero-section {
+    display: flex;
+    min-height: 90vh;
+}
+
+.hero-left {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    padding: 60px;
+}
