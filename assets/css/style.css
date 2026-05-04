@@ -182,3 +182,13 @@ body {
     height: 534px;
     border-radius: 48px;
 }
+.footer-section {
+    background-color: #02033B;
+    color: white;
+    padding: 80px 0 40px;
+}
+
+.footer-brand {
+    font-weight: 800;
+    font-size: 24px;
+}
