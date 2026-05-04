@@ -87,3 +87,10 @@ body {
     padding: 50px;
     border-radius: 30px;
 }
+/* CTA */
+.blue-cta-section {
+    background: #4335DE;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
