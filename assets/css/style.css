@@ -94,3 +94,9 @@ body {
     text-align: center;
     padding: 80px;
 }
+/* FOOTER */
+.footer-section {
+    background: #02033B;
+    color: white;
+    padding: 50px;
+}
