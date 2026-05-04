@@ -42,3 +42,8 @@ body {
     background: #FFC247;
     padding: 60px 0;
 }
+.testimonial-card {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+}
