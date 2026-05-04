@@ -81,3 +81,9 @@ body {
 .certo-about-section {
     padding: 80px 0;
 }
+/* FEATURES */
+.feature-main-card {
+    background: white;
+    padding: 50px;
+    border-radius: 30px;
+}
