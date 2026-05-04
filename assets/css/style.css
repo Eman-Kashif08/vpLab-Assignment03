@@ -119,3 +119,16 @@ body {
     width: 100%;
     background-color: var(--certo-blue);
 }
+.testimonials-section {
+    background-color: #FFC247;
+}
+
+.testimonial-card {
+    background: #FFFFFF !important;
+    border-radius: 30px;
+    padding: 35px;
+    width: 420px;
+    height: 306px;
+    display: flex;
+    flex-direction: column;
+}
