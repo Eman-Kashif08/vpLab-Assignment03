@@ -16,3 +16,24 @@ body {
 .nav-link {
     font-weight: 600;
 }
+/* BUTTONS */
+.btn-primary-certo {
+    background: #4335DE;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 50px;
+}
+
+.btn-certo-yellow {
+    background: #FFC247;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.btn-outline-android {
+    border: 2px solid #02033B;
+    padding: 15px 25px;
+    border-radius: 50px;
+}
+
