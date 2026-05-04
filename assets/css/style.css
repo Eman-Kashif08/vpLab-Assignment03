@@ -9,3 +9,11 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+/* NAVBAR */
+.navbar {
+    background: #E7EFFA;
+}
+
+.nav-link {
+    font-weight: 600;
+}
