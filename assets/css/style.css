@@ -151,3 +151,12 @@ body {
     padding: 12px 35px;
     font-weight: bold;
 }
+.features-section-wrapper {
+    background: radial-gradient(circle, #fff 0%, #E7EFFA 100%);
+}
+
+.feature-main-card {
+    background: #FFFFFF !important;
+    border-radius: 48px;
+    padding: 60px 50px;
+}
