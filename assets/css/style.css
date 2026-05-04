@@ -97,3 +97,17 @@ hero-section {
     width: 100%;
     height: auto;
 }
+.feature-main-card {
+    background-color: #FFFFFF !important; /* Box ka apna color solid white */
+    border-radius: 48px;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 60px 50px;
+    
+    /* Box shadow jo Figma mein di gayi hai */
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1); 
+    
+    border: none !important; 
+    position: relative;
+    z-index: 5; 
+}
