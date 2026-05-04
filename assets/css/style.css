@@ -66,3 +66,16 @@ body {
     transform: translateY(-50%);
     width: 250px;
 }
+
+/* TESTIMONIAL */
+.testimonials-section {
+    background: #FFC247;
+    padding: 60px 0;
+}
+
+.testimonial-card {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+
